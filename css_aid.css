@@ -1,0 +1,33 @@
+body{
+				text-align: center;
+				line-height: 1.6;
+				margin:0px;
+				text-transform: capitalize;
+				font-family: 'Cairo', sans-serif;
+				
+}
+.div1{	
+  background-color:#59C9C9;
+  font-size: 15px;
+  padding: 8px;
+  color: white;
+  font-weight: 900px;
+  border-radius: 30px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+img{
+				margin-bottom: -30px;
+}
+#ph{
+				text-align: center;
+				padding:8px;
+				background-color: #38C4C5 ;
+				color: white;
+				font-size: 20px;
+				border-bottom: solid white 3px ;
+}
+.div3{
+				color:#38C4C5 ;
+				
+}

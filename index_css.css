@@ -1,0 +1,27 @@
+body{
+				text-align: center;
+				line-height: 1.6;
+				margin:0px;
+				text-transform: capitalize;
+				font-family: 'Cairo', sans-serif;
+				}
+#button{
+					font-size	:30px;
+					border: solid #38C4C5 4px;
+					padding:15px;
+					background-color: white ;
+					border-radius: 8px;
+					color:#38C4C5 ;
+				}
+button{
+				font-size	:35px;
+					border: solid #38C4C5 16px;
+					padding:20px;
+					background-color: #38C4C5;
+					border-radius: 16px;
+					color: white;
+}
+.div3{
+				color:#38C4C5 ;
+				font-size:10px;
+}
